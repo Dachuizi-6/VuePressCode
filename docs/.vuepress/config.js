@@ -5,6 +5,7 @@ module.exports = {
     nav: require("./nav"),
     sidebar: require("./slidbar"),
     sidebarDepth: 2,
+    logo: "/img/logo.jpeg",
   },
   base: "/",
 }
